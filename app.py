@@ -30,14 +30,14 @@ def main():
     <style>
     .footer {
         position: fixed;
-        bottom: 0;
+        bottom: 50px;
         right: 0;
         padding: 5px;
         font-size: 14px;
         color: #888888;
     }
     </style>
-    <div class="footer">Made by Rohan Kar</div>
+    <div class="footer">Made by 22ds1000038</div>
     """
     st.markdown(footer_html, unsafe_allow_html=True)
 
